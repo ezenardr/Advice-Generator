@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
--   Live Site URL: [click here](https://ezenardr.github.io/Advice-Generator)
+-   Live Site URL: [https://ezenardr-advice-generator.netlify.app/](https://ezenardr-advice-generator.netlify.app/)
 
 ### Built with
 
